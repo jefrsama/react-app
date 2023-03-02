@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/jefrsama.github.io/react-app/static/css/main.34ce5fa0.css",
-    "main.js": "/jefrsama.github.io/react-app/static/js/main.9ca5662d.js",
+    "main.js": "/jefrsama.github.io/react-app/static/js/main.d39cb2df.js",
     "static/js/787.b701888c.chunk.js": "/jefrsama.github.io/react-app/static/js/787.b701888c.chunk.js",
     "static/media/pngegg.png": "/jefrsama.github.io/react-app/static/media/pngegg.290a1588950ef8be4f10.png",
     "static/media/kissss.png": "/jefrsama.github.io/react-app/static/media/kissss.74cc44c781225d79bcbb.png",
@@ -10,11 +10,11 @@
     "static/media/wide_pic.jpg": "/jefrsama.github.io/react-app/static/media/wide_pic.2b63179912f0c3ab6a46.jpg",
     "index.html": "/jefrsama.github.io/react-app/index.html",
     "main.34ce5fa0.css.map": "/jefrsama.github.io/react-app/static/css/main.34ce5fa0.css.map",
-    "main.9ca5662d.js.map": "/jefrsama.github.io/react-app/static/js/main.9ca5662d.js.map",
+    "main.d39cb2df.js.map": "/jefrsama.github.io/react-app/static/js/main.d39cb2df.js.map",
     "787.b701888c.chunk.js.map": "/jefrsama.github.io/react-app/static/js/787.b701888c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.34ce5fa0.css",
-    "static/js/main.9ca5662d.js"
+    "static/js/main.d39cb2df.js"
   ]
 }
