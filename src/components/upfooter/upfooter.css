@@ -1,0 +1,35 @@
+.upfooter {
+  height: 625.33px;
+  background: url("../img/pngegg1.png") no-repeat;
+  background-size: 1900px 625px;
+}
+
+.Upcontainer {
+  margin: 0 auto;
+}
+
+.bigorange {
+  display: flex;
+  margin: 0 auto;
+  max-width: 1200px;
+  height: 161px;
+  background-color: #F6761A;
+}
+.bigorange p {
+  margin: auto;
+  display: flex;
+  max-width: 763px;
+  font-family: "Orenburg";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 36px;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+.rowor {
+  padding-top: 464px;
+}
+
+/*# sourceMappingURL=upfooter.css.map */

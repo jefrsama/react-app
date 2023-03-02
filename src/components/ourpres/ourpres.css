@@ -1,0 +1,57 @@
+.our_pres {
+  width: 1360px;
+  margin: 0 auto;
+  padding: 80px 15px;
+}
+.our_pres h1 {
+  font-family: "Orenburg";
+  font-size: 32px;
+  font-weight: 500;
+  line-height: 36px;
+  letter-spacing: -0.5px;
+  color: #151716;
+  text-align: center;
+}
+
+.pres_row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+}
+
+.pres_item {
+  padding-top: 54.14px;
+}
+.pres_item h2 {
+  padding-top: 29.87px;
+  font-family: "Orenburg";
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 22px;
+  color: #151716;
+}
+
+.pres_item_text {
+  max-width: 200px;
+  padding-top: 15px;
+  font-family: "PT Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 20px;
+  color: #7B7B7B;
+}
+
+.pres_item_text2 {
+  max-width: 280px;
+  padding-top: 15px;
+  font-family: "PT Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 20px;
+  color: #7B7B7B;
+}
+
+/*# sourceMappingURL=ourpres.css.map */

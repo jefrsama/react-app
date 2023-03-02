@@ -1,0 +1,61 @@
+.off_products {
+  max-width: 1320px;
+  margin: 0 auto;
+  padding-top: 80px;
+}
+.off_products h1 {
+  font-family: "Orenburg";
+  font-size: 32px;
+  font-weight: 500;
+  line-height: 36px;
+  display: flex;
+  align-items: center;
+  letter-spacing: -0.5px;
+  color: #151716;
+}
+
+.off_row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.off_width {
+  padding-top: 20px;
+  width: 25%;
+}
+
+.off_items {
+  padding-top: 20px;
+  background: #FFFFFF;
+  box-shadow: inset -1px 1px 0px #ECECEC;
+}
+
+.off_img {
+  padding-top: 24px;
+  padding-bottom: 20px;
+}
+
+.off_text {
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 24px;
+}
+.off_text p {
+  padding-bottom: 34px;
+  font-family: "PT Sans";
+  font-style: normal;
+  max-width: 260px;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+  color: #151716;
+}
+
+.off_price {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 9px;
+}
+
+/*# sourceMappingURL=singleprod.css.map */

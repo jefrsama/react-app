@@ -1,0 +1,54 @@
+.main_content {
+  background: #222225;
+  padding-top: 135px;
+  padding-bottom: 80px;
+
+  .container {
+    width: 1320px;
+    margin: 0 auto;
+  }
+  button {
+    position: absolute;
+    margin-top: 300px;
+    margin-bottom: 195px;
+    z-index: 11;
+  }
+
+  .left-side div {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+  }
+
+  hr{
+    border: 0;
+    width: 371px;
+    background: linear-gradient(90deg, #4B4B4B 0%, rgba(38, 38, 37, 0) 100%);
+    height: 1px;
+  }
+
+  h1 {
+    font-family: 'Orenburg';
+    max-width: 592px;
+    font-size: 60px;
+    line-height: 64px;
+    color: #FFFFFF;
+  }
+}
+
+.left-side{
+
+  ul{
+    padding-top: 54px;
+    font-family: 'Orenburg';
+    font-size: 30px;
+    line-height: 64px;
+    color: #BEBEBE;
+  }
+}
+
+
+.row{
+  display: flex;
+  gap: 266px;
+}
