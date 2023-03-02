@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/jefrsama.github.io/static/css/main.95fd1551.css",
-    "main.js": "/jefrsama.github.io/static/js/main.286b2b9c.js",
-    "static/js/787.b701888c.chunk.js": "/jefrsama.github.io/static/js/787.b701888c.chunk.js",
-    "static/media/pngegg.png": "/jefrsama.github.io/static/media/pngegg.290a1588950ef8be4f10.png",
-    "static/media/kissss.png": "/jefrsama.github.io/static/media/kissss.74cc44c781225d79bcbb.png",
-    "static/media/pngegg1.png": "/jefrsama.github.io/static/media/pngegg1.a0b9f0be87b01e24dd4b.png",
-    "static/media/img.png": "/jefrsama.github.io/static/media/img.29f31bb55c99581c9460.png",
-    "static/media/wide_pic.jpg": "/jefrsama.github.io/static/media/wide_pic.2b63179912f0c3ab6a46.jpg",
-    "index.html": "/jefrsama.github.io/index.html",
-    "main.95fd1551.css.map": "/jefrsama.github.io/static/css/main.95fd1551.css.map",
-    "main.286b2b9c.js.map": "/jefrsama.github.io/static/js/main.286b2b9c.js.map",
-    "787.b701888c.chunk.js.map": "/jefrsama.github.io/static/js/787.b701888c.chunk.js.map"
+    "main.css": "/jefrsama.github.io/react-app/static/css/main.34ce5fa0.css",
+    "main.js": "/jefrsama.github.io/react-app/static/js/main.427199a0.js",
+    "static/js/787.b701888c.chunk.js": "/jefrsama.github.io/react-app/static/js/787.b701888c.chunk.js",
+    "static/media/pngegg.png": "/jefrsama.github.io/react-app/static/media/pngegg.290a1588950ef8be4f10.png",
+    "static/media/kissss.png": "/jefrsama.github.io/react-app/static/media/kissss.74cc44c781225d79bcbb.png",
+    "static/media/pngegg1.png": "/jefrsama.github.io/react-app/static/media/pngegg1.a0b9f0be87b01e24dd4b.png",
+    "static/media/img.png": "/jefrsama.github.io/react-app/static/media/img.29f31bb55c99581c9460.png",
+    "static/media/wide_pic.jpg": "/jefrsama.github.io/react-app/static/media/wide_pic.2b63179912f0c3ab6a46.jpg",
+    "index.html": "/jefrsama.github.io/react-app/index.html",
+    "main.34ce5fa0.css.map": "/jefrsama.github.io/react-app/static/css/main.34ce5fa0.css.map",
+    "main.427199a0.js.map": "/jefrsama.github.io/react-app/static/js/main.427199a0.js.map",
+    "787.b701888c.chunk.js.map": "/jefrsama.github.io/react-app/static/js/787.b701888c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.95fd1551.css",
-    "static/js/main.286b2b9c.js"
+    "static/css/main.34ce5fa0.css",
+    "static/js/main.427199a0.js"
   ]
 }
